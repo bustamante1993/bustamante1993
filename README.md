@@ -1,5 +1,4 @@
 <div id="header" align="center">
-    <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p>
     <h1 align="center">Hi 👋, I'm Juan Felipe Bustamante Correa</h1>
     <h3 align="center">Estudiante Ingeniería Informática | WebDeveloper | SCRUM | Quality Assurance (QA) | Apasionado por las Tecnologías 4.0 |</h3>
 </div>
